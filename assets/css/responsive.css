@@ -158,8 +158,6 @@
       display: none;
     }
 
-
-
     /*--------------------- Loader Popup Banner Section Start ---------------------*/
    #popup_banner .popup_banner{
       width:500px;
@@ -345,8 +343,9 @@
   #footer .footer_uppper .logo{
    margin: 20px 0;
    }
-
-
+   #footer .footer_uppper .logo{
+   margin: 20px 0;
+}
 
    
    /*========================--------------- SHOP PAGE 2 START---------------======================== */
@@ -371,5 +370,24 @@
 /*================================== CHECK OUT PAGE END ====================================*/
 }
 
-
+  /*--------------------- Loader Popup Banner Section Start ---------------------*/
+  #popup_banner .popup_banner{
+   width:500px;
+   height: 500px;
+}
+#popup_banner .popup_banner .popup_info form a {
+padding: 10px 30px;
+margin-left:10px;
+}
+#popup_banner .popup_banner .popup_info form input.keyword {
+font-size: 16px;
+padding: 9px 10px 12px 20px;
+width: 50%;
+}
+#popup_banner .popup_banner .popup_info p {
+   font-size: 18px;
+   line-height: 30px;
+   padding: 0 40px 0 40px;
+   color: var(--light-color);
+ }
 
