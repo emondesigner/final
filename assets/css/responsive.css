@@ -446,8 +446,26 @@
  }
 /* =================================SHOP DETAILS PAGE END=================================== */
 
+ /*---------------------------- SELLER PRODUCT SECTION START ----------------------------*/
+ #seller_product .seller_product .product_card{
+   margin: 0 12px 24px;
+   width:100%;
+}
+#seller_product .seller_product .product_card .product_card_thumb img{
+width: 100%;
+}
+.offer_info{
+   
+      background-position: center;
+      background-size: cover;
+   
+}
 
 
+#offer h1 {
+   font-size: 30px;
+   margin-bottom: 50px;
+ }
 
 }
 
