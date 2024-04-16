@@ -255,8 +255,7 @@
    #footer .footer_uppper .payment{
       margin: 10px 0 30px 0;
    }
-/*======================================= ABOUT PAGE STRT =======================================*/
-  
+   /*======================================= ABOUT PAGE STRT =======================================*/
 /*======================================= ABOUT PAGE END =======================================*/
 
 
@@ -460,7 +459,18 @@ width: 100%;
       background-size: cover;
    
 }
-
+/*=================================== Contact Page Start=================================== */
+/*--------------------- CONTACT FORM SECTION START--------------------- */
+#contact_form .form .form_group input{
+   width: 100%;
+}
+#contact_form .contact_form_info{
+   margin-top: 20px;
+}
+#contact_form .form .form_group textarea{
+   padding: 15px 0 0 15px;
+}
+/*=================================== Contact Page End===================================== */
 
 #offer h1 {
    font-size: 30px;
