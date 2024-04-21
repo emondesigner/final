@@ -528,8 +528,10 @@ color: var(--primary-color-light);
 #nav #primary-nav ul.header_icon li a{
    padding: 37px 10px;
    font-size: 24px;
-
-   
+}
+.navbar-toggler-icon{
+    text-align: center;
+    margin: 10px;
 }
 /* SEARCH BOX START */
 .search_box{
